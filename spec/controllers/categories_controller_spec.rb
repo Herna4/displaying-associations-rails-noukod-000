@@ -6,7 +6,7 @@ RSpec.describe CategoriesController, type: :controller do
   #     get :show, id: @category
   #     expect(response).to have_http_status(:success)
   #   end
-  end
+  # end
 
   describe "GET #edit" do
     # it "returns HTTP success" do
